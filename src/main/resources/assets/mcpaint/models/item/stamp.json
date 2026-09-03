@@ -1,0 +1,14 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "mcpaint:item/stamp"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "mcpaint:shift": 1
+      },
+      "model": "mcpaint:item/stamp_teisr"
+    }
+  ]
+}
